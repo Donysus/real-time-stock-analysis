@@ -13,12 +13,12 @@ This project is an **AI-driven stock trend prediction system** that continuously
 
 ## ⚡ Installation  
 
-# Step 1: Install Dependencies  
+### Step 1: Install Dependencies  
 Run the following command to install required libraries:  
 ```bash
 pip install -r requirements.txt
 ```
-## Step 2: Run the Code
+### Step 2: Run the Code
 Execute the Python script for real-time stock trend prediction:
 ```bash
 python stock_analysis.py
