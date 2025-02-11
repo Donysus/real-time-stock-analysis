@@ -18,11 +18,13 @@ Run the following command to install required libraries:
 ```bash
 pip install -r requirements.txt
 ```
+
 ### Step 2: Run the Code
 Execute the Python script for real-time stock trend prediction:
 ```bash
 python stock_analysis.py
 ```
+
 ## 🛠 Project Structure
 ```bash
 real-time-stock-analysis/
